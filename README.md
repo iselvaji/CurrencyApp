@@ -13,16 +13,27 @@ https://docs.openexchangerates.org/reference/api-introduction
 
 ## Technology
 Kotlin - Programming language
+
 Jetpack Compose - UI toolkit for native UI
+
 Jetpack Compose Navigation - Navigation between compose screens
+
 View model - To manage UI-related data in a lifecycle conscious way
+
 State Flow - state holder observable for UI state
+
 KotlinX Serialisation - For Json data parsing
+
 Koin - Kotlin based Dependency Injection library
+
 Ktor - Kotlin based networking library
+
 Room - Database for local storage
+
 Junit and Mockk - Unit testing and mocking
+
 Espresso and Compose Unit - For UI testing
+
 Turbine - library to test kotlin flow
 
 ## Architecture.
