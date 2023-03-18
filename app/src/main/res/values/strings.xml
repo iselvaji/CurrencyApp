@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="currency">Currency</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="err_amount">Enter Valid Amount</string>
+    <string name="err_empty_data">Currency details not available.</string>
+    <string name="err_unable_to_load">Unable to load the data.Please try later</string>
+    <string name="err_connectivity">Unable to load the data.Network connection is unavailable.</string>
+    <string name="loading_progress">Loading..</string>
+    <string name="currencies_list" translatable="false">Currencies Dropdown</string>
+    <string name="rates_list" translatable="false">Rates List</string>
+</resources>
